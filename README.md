@@ -12,6 +12,19 @@ Create a Cloud-Based Development Environment
 * This is an example of how to use [colab](https://github.com/NamsyJay/Pyth-for-devops-23/blob/main/starting_pydevops_23.ipynb)
 
 ### Github Codespaces
+
+Build Out python Board
+
+* Makefile 
+* Requirements.txt
+* test_library.py
+* python_library
+* DockerFile
+* command-line-tool
+* Microservice
+
+
+
 ### AWS CloudShell
 ### AWS Cloud9
 

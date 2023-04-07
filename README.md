@@ -7,7 +7,9 @@ Honing Python Skills needed for DevOps
 
 Create a Cloud-Based Development Environment
 
-### VS Code for Notebook
+### Colab Notebook
+
+* This is an example of how to use [colab] 
 ### Github Codespaces
 ### AWS CloudShell
 ### AWS Cloud9

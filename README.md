@@ -5,6 +5,14 @@ Honing Python Skills needed for DevOps
 
 ## Build Project Board
 
+Create a Cloud-Based Development Environment
+
+### Colab Noteboo
+### Github Codespaces
+### AWS CloudShell
+### AWS Cloud9
+
+
 ## Command-Lines Tools
 
 ## Microservices

@@ -9,7 +9,7 @@ Create a Cloud-Based Development Environment
 
 ### Colab Notebook
 
-* This is an example of how to use [colab] (https://github.com/NamsyJay/Pyth-for-devops-23/blob/main/starting_pydevops_23.ipynb)
+* This is an example of how to use [colab](https://github.com/NamsyJay/Pyth-for-devops-23/blob/main/starting_pydevops_23.ipynb)
 
 ### Github Codespaces
 ### AWS CloudShell
